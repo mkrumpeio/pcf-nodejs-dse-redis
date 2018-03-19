@@ -2,7 +2,9 @@
   "name": "cf-nodejs",
   "version": "1.0.0",
   "dependencies": {
+    "cassandra-driver": "^3.4.1",
     "express": "^4.13.4",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "redis": "^2.8.0"
   }
 }
